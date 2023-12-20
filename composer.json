@@ -49,7 +49,7 @@
         "schranz-search/seal": "^0.2",
         "yiisoft/di": "^1.0",
         "yiisoft/yii-console": "^2.0",
-        "symfony/console": "^6.1.0"
+        "symfony/console": "^5.2"
     },
     "require-dev": {
         "php-cs-fixer/shim": "^3.15",
